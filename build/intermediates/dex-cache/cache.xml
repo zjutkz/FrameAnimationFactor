@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_07cb9450ae5a4393b506109877faa221d7b5fb77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kangzhe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_4c172290acbb576b9d2b2f4c5ba566c99614268f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/exploded-aar/FrameAnimationFactor/frameanimationlib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="921204afb1ce0d8aa3797ba9f925e27e8c83cb2f">
+        <dex dex="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/pre-dexed/debug/FrameAnimationFactor-frameanimationlib-unspecified_f83c4e99a74fc81ebcfb98903006f58f87db5519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_8e4c73deb66e16a654bf60f0a045650d725215c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_ab7ccc6288b92da84d0169acabcb1ba54d211702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_6d75ac6614894c5305aab3cfad02917d5eb285bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/kangzhe/FrameAnimationFactor/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_bc1ae7405a1e3e6218eee44ffbba707a1bdb3a05.jar" />
+    </item>
+
+</items>
