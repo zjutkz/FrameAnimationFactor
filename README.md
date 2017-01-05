@@ -1,6 +1,6 @@
 #FrameAnimationFactor
 
-
+When you making AnimationDrawable in Android with many drawables,it will throw an oom exception,so just using FrameAnimationFactor instead.
 
 #License
 
